@@ -1,53 +1,31 @@
 # Hi there, I'm Argumelar Pamungkas 👋
 
-## 👨‍💻 Software Developer
+Software Developer with **3+ years of experience** in Flutter development and **2+ years** building backend services using Laravel, CodeIgniter, and Golang.
 
-I'm a Software Developer with **3+ years of experience** specializing in cross-platform mobile application development using **Flutter**. In addition to mobile development, I have over **2 years of experience** building backend services and RESTful APIs using **Laravel**, **CodeIgniter**, and **Golang**.
+🌱 Currently learning **Backend Engineering** and **Full-Stack Web Development**.
 
-I enjoy creating clean, scalable, and maintainable applications while continuously learning new technologies and best practices. I'm passionate about solving real-world problems through technology and always looking for opportunities to grow as a developer.
+## 🛠 Tech Stack
 
-### 🚀 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge\&logo=codeigniter\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge\&logo=firebase\&logoColor=white)
 
-#### Mobile
+## 📊 GitHub Stats
 
-* Flutter
-* Dart
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
 
-#### Backend
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
 
-* Laravel
-* CodeIgniter
-* Golang
-* RESTful API
+<!--## 📫 Connect with Me
 
-#### Database
+* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+* Portfolio: https://your-portfolio.com -->
 
-* MySQL
-* PostgreSQL
-* Supabase
-* Oracle Database
-
-#### Tools
-
-* Git & GitHub
-* Google Cloud Platform
-* Firebase
-
-### 🌱 Currently Learning
-
-* Backend Engineering
-* Full-Stack Web Development
-* Clean Architecture
-* CI/CD
-* Mobile Performance Optimization
-
-  
-<!-- ### 📫 Connect with Me
-
-* 💼 LinkedIn: *Add your LinkedIn URL*
-* 🌐 Portfolio: *Add your portfolio URL*
-* 📧 Email: *Add your email* --->
-
----
-
-> *"Keep learning, keep building, and never stop improving."* 🚀
+"Always learning, always building." 🚀
