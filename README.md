@@ -27,4 +27,6 @@ Software Developer with **3+ years of experience** in Flutter development and **
 * LinkedIn: https://linkedin.com/in/YOUR_USERNAME
 * Portfolio: https://your-portfolio.com -->
 
+---
+
 "Always learning, always building." 🚀
