@@ -4,8 +4,6 @@ I'm a Software Developer with 3+ years of experience specializing in cross-platf
 
 I enjoy creating clean, scalable, and maintainable applications while continuously learning new technologies and best practices. I'm passionate about solving real-world problems through technology and always looking for opportunities to grow as a developer.
 
-🌱 Currently learning **Backend Engineering** and **Python**.
-
 ## 🛠 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
